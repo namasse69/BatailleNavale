@@ -25,7 +25,6 @@ public class BatailleNavale {
         
         baseNavale.grille[2][2]=1;
         
-        
         System.out.println(baseNavale.grille[4][4]);
         System.out.println(baseNavale.grille[1][6]);
         

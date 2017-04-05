@@ -15,3 +15,5 @@ public class Grille {
             }
     }
 }
+
+// grille en private et mettre getters et setters
